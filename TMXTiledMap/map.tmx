@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="12" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="tiled" tilewidth="40" tileheight="40">
+  <image source="gfx/tiled.png" width="80" height="80"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="20" height="12">
+  <properties>
+   <property name="hierba" value="1"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC62TSQ4AIAgDKfD/NxsTT4SlJhzmBI7FRUVEl7EBED2W+ECs72pMPn9UbjS+bO/Kl/Wy58eA4HPhsnTzs75pfiz72HzTu4v13/uY/Nv/7HIAAsD5jMADAAA=
+  </data>
+ </layer>
+</map>
